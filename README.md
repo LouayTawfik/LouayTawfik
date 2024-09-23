@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: when i was a child i looked up 
 --> Hi, i'm Louay... 
 
-- 🌱 I’m a Junior Backend Software Engineer (Python/Django)
+- 🌱 I’m a Backend Software Engineer (Python/Django)
 - 📫 How to reach me: loay.ellaithy@hotmail.com
 - ⚡ Fun fact: when i was a child i looked up to be a footballer
 - i'm gratuated from Egyptian E-Learning University - IT field
